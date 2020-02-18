@@ -9,4 +9,4 @@ Find all of the past lecture content here!
 ### Module 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Hasketball Review       | [Code]() | [Video]() |
+| Hasketball Review       | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/01-hashketball-review) | [Video](https://youtu.be/X_TvN-5hh9o) |
