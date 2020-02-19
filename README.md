@@ -10,3 +10,4 @@ Find all of the past lecture content here!
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hasketball Review       | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/01-hashketball-review) | [Video](https://youtu.be/X_TvN-5hh9o) |
+| Intro to OO | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/02-intro-to-oo) | [Video](https://youtu.be/9SR3Qw7NLJU) |
