@@ -13,3 +13,5 @@ Find all of the past lecture content here!
 | Intro to OO | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/02-intro-to-oo) | [Video](https://youtu.be/9SR3Qw7NLJU) |
 | One-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/03-oo-one-to-many) | [Video](https://youtu.be/6M2YDNLXcwQ) |
 | Many-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/04-many-to-many) | [Video](https://youtu.be/Q-jt6q5Afes) |
+| OO Review | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/05-oo-review) | [Video](https://youtu.be/L8wmE2JFTGk) |
+
