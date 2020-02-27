@@ -14,4 +14,5 @@ Find all of the past lecture content here!
 | One-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/03-oo-one-to-many) | [Video](https://youtu.be/6M2YDNLXcwQ) |
 | Many-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/04-many-to-many) | [Video](https://youtu.be/Q-jt6q5Afes) |
 | OO Review | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/05-oo-review) | [Video](https://youtu.be/L8wmE2JFTGk) |
+| OO Review - breakout | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/breakout-code_challenge_review) | [Video](https://youtu.be/ZjI0RxUFo-c) |
 
