@@ -15,6 +15,9 @@ Find all of the past lecture content here!
 | Many-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/04-many-to-many) | [Video](https://youtu.be/Q-jt6q5Afes) |
 | OO Review | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/05-oo-review) | [Video](https://youtu.be/L8wmE2JFTGk) |
 | OO Review - breakout | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/breakout-code_challenge_review) | [Video](https://youtu.be/ZjI0RxUFo-c) |
-| Intro to Inheritance | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/06-intro-to-inheritance) | [Video]() | 
-| Intro to SQL | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/07-intro-to-sql) | [Video]() |
+| Intro to Inheritance | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/06-intro-to-inheritance) | [Video](https://youtu.be/RlZBf1ShS2o) | 
+| Intro to SQL | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/07-intro-to-sql) | [Video](https://youtu.be/5Sn7-0Nm2mk) |
+| Intro to ORMs | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/08-intro-to-orm) | [Video](https://youtu.be/BtB0q5Rk6UQ) |
+| Intro to ActiveRecord | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/09-intro-to-active-record) | [Video](https://youtu.be/aqvUSk61m84) |
+| ActiveRecord Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/10-active-record-associations) | [Video]() |
 
