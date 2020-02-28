@@ -19,5 +19,5 @@ Find all of the past lecture content here!
 | Intro to SQL | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/07-intro-to-sql) | [Video](https://youtu.be/5Sn7-0Nm2mk) |
 | Intro to ORMs | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/08-intro-to-orm) | [Video](https://youtu.be/BtB0q5Rk6UQ) |
 | Intro to ActiveRecord | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/09-intro-to-active-record) | [Video](https://youtu.be/aqvUSk61m84) |
-| ActiveRecord Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/10-active-record-associations) | [Video]() |
+| ActiveRecord Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/10-active-record-associations) | [Video](https://youtu.be/TSGZ-5RTL4g) |
 
