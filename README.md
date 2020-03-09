@@ -22,3 +22,8 @@ Find all of the past lecture content here!
 | ActiveRecord Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/10-active-record-associations) | [Video](https://youtu.be/TSGZ-5RTL4g) |
 | Hashes and the Internet | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/11-hashes-and-the-internet) | [Video](https://youtu.be/M-qQ3Y5gjLA) | 
 
+### Module 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to Rack, MVC, Sinatra | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/12-mvc-rack-sinatra) | [Video](https://www.youtube.com/watch?v=xQszdBeFaH8) |
+
