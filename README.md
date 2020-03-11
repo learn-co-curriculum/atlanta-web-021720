@@ -27,4 +27,5 @@ Find all of the past lecture content here!
 | -----            | ----                | -----                |
 | Intro to Rack, MVC, Sinatra | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/12-mvc-rack-sinatra) | [Video](https://www.youtube.com/watch?v=xQszdBeFaH8) |
 | Sinatra Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/13-sinatra-forms-and-rest) | [Video P1](https://youtu.be/USwjJ0Xavbk), [Video P2](https://youtu.be/Ad5SYZVKD5k) |
+| Sinatra Forms and Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/14-sinatra-forms-and-associations) | [Video](https://youtu.be/J-jLazyX8_4) |
 
