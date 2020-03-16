@@ -29,5 +29,6 @@ Find all of the past lecture content here!
 | Sinatra Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/13-sinatra-forms-and-rest) | [Video P1](https://youtu.be/USwjJ0Xavbk), [Video P2](https://youtu.be/Ad5SYZVKD5k) |
 | Sinatra Forms and Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/14-sinatra-forms-and-associations) | [Video](https://youtu.be/J-jLazyX8_4) |
 |Intro to Rails | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/15-intro-to-rails) | [Video](https://youtu.be/K7PIIXpCzDY) |
-|Rails Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/16-rails-forms-rest)| [Video](https://wework.zoom.us/rec/play/vJAuf-it-mo3ToKRswSDC6QqW9W9KqushCNLrKJbzEvhUHcFYQKlNLdEZ-X2BIpkLHVmtj9VMzzDfIrO?autoplay=true&_ga=2.217817750.1065368227.1584028795-467488566.1579636983&_gac=1.254744058.1583849680.Cj0KCQjw9ZzzBRCKARIsANwXaeLcKba8Bdh2QaBK7xoQErZLpCbFoAXygp6of1x0fVcwfx8WkVvg_xIaAlYCEALw_wcB) |
+|Rails Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/16-rails-forms-rest)| Video coming soon |
+| Rails Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/17-rails-forms-associations) | Video coming soon |
 
