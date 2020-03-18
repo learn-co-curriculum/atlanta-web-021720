@@ -32,5 +32,5 @@ Find all of the past lecture content here!
 |Rails Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/16-rails-forms-rest)| [Video](https://youtu.be/rPnc8DYTzik) |
 | Rails Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/17-rails-forms-associations) | [Video](https://youtu.be/VAKUQ1IqUNs) |
 | Rails Validations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/18-rails-validations) | [Video](https://youtu.be/iG3oovBYNMw) | 
-| Rails Many-To-Many Association | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/19-many-to-many-associations) | [Video](https://youtu.be/YzKJxffRvnw) | 
+| Rails Many-To-Many Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/19-many-to-many-associations) | [Video](https://youtu.be/YzKJxffRvnw) | 
 
