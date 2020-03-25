@@ -15,12 +15,12 @@ Find all of the past lecture content here!
 | Many-to-Many | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/04-many-to-many) | [Video](https://youtu.be/Q-jt6q5Afes) |
 | OO Review | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/05-oo-review) | [Video](https://youtu.be/L8wmE2JFTGk) |
 | OO Review - breakout | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/breakout-code_challenge_review) | [Video](https://youtu.be/ZjI0RxUFo-c) |
-| Intro to Inheritance | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/06-intro-to-inheritance) | [Video](https://youtu.be/RlZBf1ShS2o) | 
+| Intro to Inheritance | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/06-intro-to-inheritance) | [Video](https://youtu.be/RlZBf1ShS2o) |
 | Intro to SQL | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/07-intro-to-sql) | [Video](https://youtu.be/5Sn7-0Nm2mk) |
 | Intro to ORMs | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/08-intro-to-orm) | [Video](https://youtu.be/BtB0q5Rk6UQ) |
 | Intro to ActiveRecord | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/09-intro-to-active-record) | [Video](https://youtu.be/aqvUSk61m84) |
 | ActiveRecord Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/10-active-record-associations) | [Video](https://youtu.be/TSGZ-5RTL4g) |
-| Hashes and the Internet | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/11-hashes-and-the-internet) | [Video](https://youtu.be/M-qQ3Y5gjLA) | 
+| Hashes and the Internet | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/11-hashes-and-the-internet) | [Video](https://youtu.be/M-qQ3Y5gjLA) |
 
 ### Module 2
 | Topic            | Code                | Video                |
@@ -31,6 +31,6 @@ Find all of the past lecture content here!
 |Intro to Rails | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/15-intro-to-rails) | [Video](https://youtu.be/K7PIIXpCzDY) |
 |Rails Forms and REST | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/16-rails-forms-rest)| [Video](https://youtu.be/rPnc8DYTzik) |
 | Rails Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/17-rails-forms-associations) | [Video](https://youtu.be/VAKUQ1IqUNs) |
-| Rails Validations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/18-rails-validations) | [Video](https://youtu.be/iG3oovBYNMw) | 
-| Rails Many-To-Many Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/19-many-to-many-associations) | [Video](https://youtu.be/YzKJxffRvnw) | 
-
+| Rails Validations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/18-rails-validations) | [Video](https://youtu.be/iG3oovBYNMw) |
+| Rails Many-To-Many Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/19-many-to-many-associations) | [Video](https://youtu.be/YzKJxffRvnw) |
+| Rails Auth 🔑 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/21-rails-auth) | [Pt 1](https://wework.zoom.com/rec/share/3dBXdL3561xJWZWQr2PBBosjJYvcX6a8hnVI8_dbnU6PWe9gq6euenfaP7UNANdh) [Pt 2 - Coming Soon]() | 
