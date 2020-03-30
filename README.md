@@ -33,4 +33,10 @@ Find all of the past lecture content here!
 | Rails Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/17-rails-forms-associations) | [Video](https://youtu.be/VAKUQ1IqUNs) |
 | Rails Validations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/18-rails-validations) | [Video](https://youtu.be/iG3oovBYNMw) |
 | Rails Many-To-Many Associations | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/19-many-to-many-associations) | [Video](https://youtu.be/YzKJxffRvnw) |
-| Rails Auth 🔑 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/21-rails-auth) | [Pt 1](https://wework.zoom.com/rec/share/3dBXdL3561xJWZWQr2PBBosjJYvcX6a8hnVI8_dbnU6PWe9gq6euenfaP7UNANdh) [Pt 2](https://wework.zoom.com/rec/share/z_MtPqDOsXFIW7ecxV_uYK55HLjEaaa81yMZq6VfzhpvFC03TrPogYatDR3lcLPp) | 
+| Rails Auth 🔑 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/21-rails-auth) | [Pt 1](https://wework.zoom.com/rec/share/3dBXdL3561xJWZWQr2PBBosjJYvcX6a8hnVI8_dbnU6PWe9gq6euenfaP7UNANdh) [Pt 2](https://wework.zoom.com/rec/share/z_MtPqDOsXFIW7ecxV_uYK55HLjEaaa81yMZq6VfzhpvFC03TrPogYatDR3lcLPp) |
+
+### Module 3
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to JS 👀 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/22-intro-to-js) | [Video]() |
+| Scope, Closure && Callback 🤙🏻 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/23-scopes-closures-callbacks) | [Video]() |
