@@ -38,5 +38,6 @@ Find all of the past lecture content here!
 ### Module 3
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Intro to JS 👀 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/22-intro-to-js) | [Video]() |
-| Scope, Closure && Callback 🤙🏻 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/23-scopes-closures-callbacks) | [Video]() |
+| Intro to JS 👀 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/22-intro-to-js) | [Video](https://wework.zoom.com/rec/share/tOMlNIyv_VpIAY2R2RzyeLYER7vqaaa8gCcZq_JZy0nMjJT6zoQwsz26hTrfhmYl) |
+| Scope, Closure && Callback 🤙🏻 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/23-scopes-closures-callbacks) | [Video](https://wework.zoom.com/rec/share/wtUyNaqu21NJfKfKzmb6UIctRKLZeaa82nAZ86cKzhrDpfnRMyCmSKNPmMYH8N5Z) |
+| Intro to DOM 🌳 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/24-intro-to-dom) | [Video](https://wework.zoom.com/rec/share/7J1IALza2TNORM_v0XHnApYvIqrnX6a8gSEZ_vIMnhwXZ8eIYb34f13_mYQ2f-ll) |
