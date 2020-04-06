@@ -44,3 +44,4 @@ Find all of the past lecture content here!
 | Intro to Events 😎 | [Code](https://github.com/learn-co-students/atlanta-web-021720/tree/master/25-intro-to-events) | [Video](https://wework.zoom.com/rec/share/5-xoCpLd_E5ORtLMyVmHffUgB7nEX6a8gXUcq6BcxBw9IwdDUJ_b_lJ-u1j_Oe_i) |
 | Event Delegation | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/24-event-delegation) | [Video](https://youtu.be/W48Rs1VjTW4) |
 | Async JS and Fetch | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/26-async-js-and-fetch) | [Video 1](https://youtu.be/_han3y7HAF0) [Video 2](https://youtu.be/HNv9T5uACU8) |
+| Rails as an API | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/27-rails-apis) | [Video](https://wework.zoom.com/rec/share/tZNuE-_u1HhJG7PT10qOYaNxWZjeaaa80HcWrKEEnUkDvo6mxwN8a4uM4VHYm6mw) |
