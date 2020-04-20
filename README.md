@@ -51,3 +51,10 @@ Find all of the past lecture content here!
 | Prototypal Inheritance | [Code](https://github.com/learn-co-students/dumbo-se-021720/blob/master/31-prototypal-inheritance) | [Video](https://wework.zoom.us/rec/share/vJEpKK_o2TpORLPKuUX_GbQhHJvaeaa8gyUb8qENmExnz41mX65BU4--2cU7Bbwb) PW: fl@t1ron |
 | Practical OOJS | [Code](https://github.com/learn-co-students/dumbo-se-021720/blob/master/32-practical-oojs) | [Video](https://wework.zoom.us/rec/share/1e5UPu7N-iBOS6eR1HjVArd9A67Deaa803NP8vJez0xeJqFsnA81SuWMVDRYfVg_) PW: fl@t1ron |
 | ES6 & Beyond| [Code](https://github.com/learn-co-students/dumbo-se-021720/blob/master/33-es6-and-beyond) | [Video](https://wework.zoom.com/rec/share/4c9ZbL3r-kdJXoHE6mLWQqsfJLr0eaa8g3NN__UFmRxxMouBkJ11TKiIWbyYJkEM) PW: fl@t1ron |
+
+
+### Mod 4
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to React | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/34-intro-to-react) | [Video](https://wework.zoom.us/rec/share/y91TBYzZ3WhJb5Xpt0zffYF8ToX_T6a813If_fNcnRowboUAp7w8Fm07FkfvitNR) |
+
