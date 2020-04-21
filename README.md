@@ -58,3 +58,4 @@ Find all of the past lecture content here!
 | -----            | ----                | -----                |
 | Intro to React | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/34-intro-to-react) | [Video](https://wework.zoom.us/rec/share/y91TBYzZ3WhJb5Xpt0zffYF8ToX_T6a813If_fNcnRowboUAp7w8Fm07FkfvitNR) |
 | JSX & Props | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/35-jsx-and-props) | [Video](https://wework.zoom.us/rec/share/-sNWc6uo809JGKfxtmT5apMaMpveX6a813RP-vRemE0w9jaGiN1X8WXANCHpGKjl) |
+| State & Events | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/36-state-and-events) | [Video](https://wework.zoom.us/rec/share/4eYoP5WqyUVLe9bU-nnCcKkDRYi8aaa82iYX_adexE7paAOEZnx7WQM0HocE4EwA) |
