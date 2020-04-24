@@ -62,5 +62,5 @@ Find all of the past lecture content here!
 | React Fundamentals Review | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/37-react-fundamentals-review) | [Video](https://wework.zoom.us/rec/share/3Mh_CJ7c0EpIZIXDtUfmVZw8R6rpeaa80Xca_PsJzEiWss9DURedY-0PPVJgJp6X) |
 | Controlled Forms & Inverse Data Flow | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/38-forms) | [Video](https://wework.zoom.us/rec/share/7P55cLap_01IbY3x0kv4RpQbH4neaaa81SJNrvAKmUcOJCRezw-s5Dt_5A7LkkTJ) |
 | Lifecycle Methods | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/39-lifecycle-methods) | [Video](https://wework.zoom.com/rec/share/xspnd73S_CBOHp3Q1kSHAO0DIYqmX6a82iIXrPUOnUy2TefNDyJogUBZi9WNu75F) |
-
+| Hogwarts Review | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/40-hogwarts-review) | [Video](https://wework.zoom.com/rec/share/29QuMIrXsW9ISZHT007cRqo8OKPCT6a813RM-_VfxBmNmiqT-1HCAuVmyEB0ICUn) |
 
