@@ -65,3 +65,6 @@ Find all of the past lecture content here!
 | Hogwarts Review | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/40-hogwarts-review) | [Video](https://wework.zoom.com/rec/share/29QuMIrXsW9ISZHT007cRqo8OKPCT6a813RM-_VfxBmNmiqT-1HCAuVmyEB0ICUn) |
 | React Router | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/44-react-router) | [Video](https://wework.zoom.com/rec/share/ptwpMJvL5kdIGIWTsmfiRZYzEZq_T6a8gykWq_sFyEqJ8EMa3cvbrKNBLbY8DmNp) |
 | Leaflet | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/45-mapping) | [Video](https://wework.zoom.com/rec/share/2eNPEaDpx0BJYaPwx3zmc7ctRr3UT6a80ylI-KBZzhpIxiF4LCZcZVING047--74) |
+| Auth | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/46-auth) | [Part 1](https://wework.zoom.com/rec/share/5dNUbLLe0WNOSJGcyUbcUZUqP6rvaaa80ScZqPsNy00uS3TN6phFLcuxII0lmluH) |
+
+
