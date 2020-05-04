@@ -66,5 +66,5 @@ Find all of the past lecture content here!
 | React Router | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/44-react-router) | [Video](https://wework.zoom.com/rec/share/ptwpMJvL5kdIGIWTsmfiRZYzEZq_T6a8gykWq_sFyEqJ8EMa3cvbrKNBLbY8DmNp) |
 | Leaflet | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/45-mapping) | [Video](https://wework.zoom.com/rec/share/2eNPEaDpx0BJYaPwx3zmc7ctRr3UT6a80ylI-KBZzhpIxiF4LCZcZVING047--74) |
 | Auth | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/46-auth) | [Part 1](https://wework.zoom.com/rec/share/5dNUbLLe0WNOSJGcyUbcUZUqP6rvaaa80ScZqPsNy00uS3TN6phFLcuxII0lmluH) / [Part 2](https://wework.zoom.com/rec/share/_MxZbIDhrXpJGYnm5XPzd54MHt7Keaa8hiUb_qdZyUncZ1WpAiEQhy0lIF-IJfBw)|
-
+| Hooks | [Code](https://github.com/learn-co-students/dumbo-se-021720/tree/master/47-hooks) | [Video](https://wework.zoom.com/rec/share/9eNILoHA0DxIbbOV8nPDAYAIOr3VX6a80HVL_6cExEuuI0Ov7Lp31UxKgcGuhPTA) |
 
